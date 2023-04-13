@@ -6,4 +6,4 @@
 
 <디자인>
 * figma
-[MooApp](https://www.figma.com/proto/3ETFMbpMILF2zTfcQpTavx/Untitled?page-id=0%3A1&node-id=1%3A2&viewport=558%2C429%2C0.31&scaling=scale-down&starting-point-node-id=31%3A161)
+[MooApp](https://www.figma.com/proto/3ETFMbpMILF2zTfcQpTavx/MOOAPP?node-id=1-2&starting-point-node-id=31%3A161)
